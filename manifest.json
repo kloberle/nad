@@ -1,0 +1,10 @@
+{
+  "domain": "nadt765",
+  "name": "NAD",
+  "codeowners": [],
+  "integration_type": "device",
+  "documentation": "https://www.home-assistant.io/integrations/nad",
+  "iot_class": "local_polling",
+  "loggers": ["nad_receiver"],
+  "version": "0.9.0"
+}
